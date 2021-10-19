@@ -1,0 +1,20 @@
+#buttonZmienPoziom {
+
+    -fx-background-color: red;
+}
+.play-buttons {
+    -fx-border-radius: 3px;
+
+    -fx-border-color: #04AA6D;
+}
+.play-buttons:hover{
+    -fx-background-color: gray;
+}
+
+.play-buttons:disabled {
+    -fx-border-color: BLACK;
+}
+.exposed-number {
+    -fx-border-color: #545454;
+    -fx-background-color: #a8a8a8;
+}
